@@ -1,11 +1,11 @@
 # Site settings
-author: joan leonard short
-title: 
+author: Joan Leonard-Short
+title: Joan LS
 header-img: img/home-bg.png
 email: jflshort@gmail.com
-copyright_name: joan leonard short
+copyright_name: Joan Leonard-Short
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  israeljls-j
